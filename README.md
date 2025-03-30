@@ -1,14 +1,8 @@
 # 👋 Hi, I'm Lwazi Dlamini  
 **🔐 AWS Security & CompTIA Security+ Certified | Cloud Infrastructure Specialist**  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lwazi-dlamini-006a40185" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:lwazi995@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&logo=gmail" alt="Email">
-  </a>
-</p>
+🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/lwazi-dlamini-006a40185)  
+📧 [**Email Me**](mailto:lwazi995@outlook.com)  
 
 ---
 
@@ -32,3 +26,7 @@
 ## 📜 Certifications  
 - AWS Certified Security - Specialty  
 - CompTIA Security+  
+
+---
+
+> "Engineering secure cloud foundations through defense-in-depth principles."  
