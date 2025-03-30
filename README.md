@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Lwazi Dlamini  
-**🔐 AWS Certified Security Specialist | Cloud Infrastructure Engineer**  
+**🔐 AWS & CompTIA Security+ Certified | Cloud Infrastructure Engineer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/lwazi-dlamini-006a40185)  
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail)](mailto:lwazi995@outlook.com)  
-[![AWS Certified](https://img.shields.io/badge/AWS_Security-Specialist-%23FF9900?style=flat&logo=amazon-aws)](https://aws.amazon.com/certification/certified-security-specialty/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lwazi-dlamini-006a40185)  
+[![Email](https://img.shields.io/badge/Email-Lwazi995@outlook.com-D14836?style=for-the-badge&logo=gmail)](mailto:lwazi995@outlook.com)  
+[![AWS Certified](https://img.shields.io/badge/AWS_Security-Specialist-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/YOUR_AWS_BADGE_ID)  
+[![CompTIA](https://img.shields.io/badge/CompTIA-Security+-007AC0?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/YOUR_COMPTIA_BADGE_ID)  
 
 ---
 
@@ -28,8 +29,4 @@
 
 ## 📜 Certifications  
 - **AWS Certified Security – Specialty**  
-- **AWS Cloud Practitioner**  
-
----
-
-> "Building secure, scalable cloud foundations with defense-in-depth principles."  
+- 
