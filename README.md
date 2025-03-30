@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm **Lwazi**  
+**🔐 Cloud Security | AWS | Networking**  
 
-<!--
-**Lwazi99512/lwazi99512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured Projects  
+- [AWS VPC Security Project](https://github.com/yourusername/aws-vpc-project) - Built secure networks with ACLs + Security Groups  
+- [IAM Access Control](https://github.com/yourusername/aws-iam-project) - Implemented tag-based permissions  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning  
+- Advanced AWS Architectures  
+- Terraform for Infrastructure as Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:lwazi995@outlook.com)  
+
