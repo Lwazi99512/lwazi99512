@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lwazi Dlamini  
-**🔐 AWS Security & CompTIA Security+ Certified | Cloud Infrastructure Specialist**  
+**🔐 OpenAi Cyber Practitioner & CompTIA Security+ Certified | Cloud Infrastructure Specialist**  
 
 🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/lwazi-dlamini-006a40185)  
 📧 [**Email Me**](mailto:lwazi995@outlook.com)  
