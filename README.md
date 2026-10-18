@@ -24,8 +24,9 @@
 ---
 
 ## 📜 Certifications  
-- AWS Certified Security - Specialty  
-- CompTIA Security+  
+- CompTIA Security+ 
+- OpenAi Cyber Practitioner
+
 
 ---
 
